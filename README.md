@@ -58,12 +58,4 @@
   </a>
 </p>
 
----
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaswan-gopalakaje&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaswan-gopalakaje&show_icons=true&theme=tokyonight" />
-</p>
