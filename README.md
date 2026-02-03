@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=bhaswan-gopalakaje&label=Profile%20views&color=0e75b6&style=flat" alt="bhaswan-gopalakaje" />
 </p>
 
-- 🔭 I’m currently working on **Voyager Simulator**
+- 🔭 I’m currently working on **Voyager Sim**
 
 - 🌱 I’m currently learning **Computational Physics using Python and C**
 
